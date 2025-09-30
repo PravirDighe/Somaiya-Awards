@@ -1,5 +1,6 @@
 # Somaiya Awards System 
 
+## Project Moved to [this repo](https://github.com/Somaiya-Awards/somaiya-awards)
 ## Progress Report
 
 ![Progress Bar](https://progress-bar.xyz/40/)
