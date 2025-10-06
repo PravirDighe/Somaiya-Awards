@@ -104,6 +104,7 @@ const TeachingForm: FormEntry[] = [
         title: "Date of Appointment",
         _name: "date_of_appointment",
         type: "date",
+        dateFormat: "dd/MM/yyyy",
         requiredStatus: true,
         hasValidations: true,
         validationType: "date",
