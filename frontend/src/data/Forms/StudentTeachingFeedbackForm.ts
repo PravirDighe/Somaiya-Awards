@@ -8,7 +8,7 @@ const StudentTeachingFeedbackForm: FormEntry[] = [
         type: "email",
         requiredStatus: true,
         hasValidations: true,
-        validationType: "email-id",
+        validationType:'somaiya-mail-id',
         hasOptions: false,
         page: 1,
         fieldsPerLine: 2,
