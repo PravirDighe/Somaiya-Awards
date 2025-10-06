@@ -103,6 +103,7 @@ const OutstandingInstForm: FormEntry[] = [
         title: "Date of Joining Of HOI",
         _name: "hoi_joining_date",
         type: "date",
+        dateFormat: "dd/MM/yyyy",
         hasOptions: false,
         requiredStatus: true,
         hasValidations: true,
